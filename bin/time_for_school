@@ -26,6 +26,3 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge[1]}' from 
 puts "#{jim.knowledge[1]}"
 
 
-
-steve.knowledge
-jim.knowledge
