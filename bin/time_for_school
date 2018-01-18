@@ -27,5 +27,5 @@ puts "#{jim.knowledge[1]}"
 
 puts ::
 
-puts steve.knowledge
-puts jim.knowledge
+steve.knowledge
+jim.knowledge
