@@ -1,4 +1,4 @@
-require lib/teacher.rb
+require ..lib/teacher.rb
 
 class User < Teacher
 
