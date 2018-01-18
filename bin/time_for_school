@@ -23,7 +23,7 @@ jim.learn(some_knowledge)
 steve.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
-puts "#{jim.knowledge.first}"
+puts "#{jim.knowledge[1]}"
 
 puts steve.knowledge
 puts jim.knowledge
