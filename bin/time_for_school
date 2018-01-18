@@ -18,9 +18,9 @@ jim.last_name = "Last"
 
 some_knowledge = avi.teach
 
-jim.learn(some_knowledge)
+5.times {jim.learn(some_knowledge)}
 
-steve.learn(some_knowledge)
+5.times {steve.learn(some_knowledge)}
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 puts "#{jim.knowledge.first}"
